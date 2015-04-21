@@ -1,5 +1,5 @@
 {
-    "name": "metrakit/eloquent-oauth",
+    "name": "metrakit/extended-eloquent-oauth",
     "description": "Stupid simple OAuth authentication with Laravel and Eloquent",
     "authors": [
     {
